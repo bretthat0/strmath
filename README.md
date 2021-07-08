@@ -3,9 +3,13 @@ String parsing math library for Python
 
 ### Install
 From source code:
-    python setup.py install
-Using [pip](https://github.com/pypa/pip):
-    pip install strmath
+```bash
+python setup.py install
+```
+From [PyPI](https://pypi.org/) using pip:
+```bash
+pip install strmath
+```
 ### Example Usage
 ```python
 from strmath import *
