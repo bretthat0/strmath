@@ -8,9 +8,9 @@ setuptools.setup(
     version="0.1.1",
     description="String parsing math library for Python",
     long_description_content_type="text/markdown",
-    url="https://github.com/bretthat0/strmath",
+    url="https://github.com/emtydev/strmath",
     project_urls={
-        "Bug Tracker": "https://github.com/bretthat0/strmath/issues",
+        "Bug Tracker": "https://github.com/emtydev/strmath/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3.6",
